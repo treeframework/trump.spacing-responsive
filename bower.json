@@ -1,22 +1,25 @@
 {
-  "name": "tree-responsive-spacing",
-  "version": "0.1.0",
+  "name": "tree-spacing-responsive",
+  "homepage": "https://github.com/treeframework/trump.spacing-responsive",
+  "version": "0.1.1",
   "authors": [
     "Harry Roberts <harry@csswizardry.com>",
     "Ilia Kolev <info@iliakolev.com>"
   ],
   "description": "Responsively controlled width classes.",
-  "main": "_spacing-responsive.scss",
+  "main": "_trump.spacing-responsive.scss",
+  "ignore": [
+    "*.md"
+  ],
   "keywords": [
     "css",
     "rwd"
   ],
   "license": "Apache 2",
-  "homepage": "https://github.com/treeframework/trumps.spacing-responsive",
   "dependencies": {
-    "tree-defaults": "latest",
-    "tree-responsive-settings": "latest",
-    "tree-responsive-tools": "latest",
-    "tree-spacing": "latest"
+    "tree-defaults": "~0.2.4",
+    "tree-responsive-settings": "~0.1.1",
+    "tree-responsive-tools": "~0.1.2",
+    "tree-spacing": "~0.1.4"
   }
 }
