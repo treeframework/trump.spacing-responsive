@@ -48,7 +48,7 @@ $tree-enable-responsive-paddings--none:            false !default;
         $tree-generate-spacing-condition:  nth($breakpoint, 2);
 
         // This isn’t ideal, but we definitely don’t want to generate widths
-        // for retina devices. Exclude retina media-qeuries manually.
+        // for retina devices. Exclude retina media-queries manually.
         @if ($tree-generate-spacing-alias != "retina") {
 
             @include media-query($tree-generate-spacing-alias) {
