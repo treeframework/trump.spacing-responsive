@@ -5,7 +5,15 @@ nudging margins and paddings around responsively, e.g. `.lap-mb0`, `.desk-mb++`.
 
 Install using Bower:
 
-    $ bower install --save tree-spacing-responsive
+```sh
+$ bower install tree-spacing-responsive --save
+```
+
+Install using npm:
+
+```sh
+$ npm install tree-spacing-responsive --save
+```
 
 ## Credits
 
