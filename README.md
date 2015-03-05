@@ -10,7 +10,7 @@ The `spacing-responsive` module depends on four other modules:
 * [settings.defaults](https://github.com/treeframework/settings.defaults)
 * [tree-responsive-settings](https://github.com/treeframework/settings.responsive)
 * [tree-responsive-tools](https://github.com/treeframework/tools.responsive)
-* [tree-spacing]('https://github.com/treeframework/trump.spacing)
+* [tree-spacing](https://github.com/treeframework/trump.spacing)
 
 If you install the `spacing-responsive` module using Bower or npm, you will get these
 dependencies at the same time. If not using Bower or npm, please be sure to
@@ -30,7 +30,7 @@ $ bower install tree-spacing-responsive --save
 Once installed, `@import` into your project in its Trump layer:
 
 ```scss
-@import "bower_components/tree-spacing-resposnive/trump.spacing-resposnive";
+@import "bower_components/tree-spacing-responsive/trump.spacing-responsive";
 ```
 
 ### Install using npm:
