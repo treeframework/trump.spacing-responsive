@@ -10,7 +10,7 @@
     "tree-defaults": "~0.2.5",
     "tree-responsive-settings": "~0.1.4",
     "tree-responsive-tools": "~0.1.4",
-    "tree-spacing": "~0.1.6"
+    "tree-spacing": "~0.2.0"
   },
   "homepage": "https://github.com/treeframework/trump.spacing-responsive",
   "keywords": [
